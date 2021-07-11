@@ -1,3 +1,5 @@
 Apples are good for health
 Apple a day keep doctor away
 Mangoes are tasty
+
+New lines has been added
